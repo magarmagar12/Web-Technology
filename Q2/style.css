@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color:green;
+}
+.column.side{
+    width: 50%;
+    float: left;
+}
+h1{
+    font-size: 60px;
+    text-align: left;
+    margin-left: 100px;
+    color: white;
+}
+p{
+    text-align: justify;
+    font-size: 40px;
+    color: white;
+
+}
+img{ padding-top: 40px;
+
+}
